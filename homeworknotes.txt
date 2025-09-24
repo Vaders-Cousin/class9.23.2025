@@ -1,0 +1,26 @@
+9-23-2025 AWS Class 7 week 3
+Objective for class today
+
+Push to files to git hub, command line and file, file management
+
+gitbash- ( windows) shell that allow you to interface with the computer
+
+terminal-- (mac)
+
+
+basic commands for gitbash:
+
+pwd-- Print (show on the screen) Working Directory-- where am I
+
+ls-- view files and folders in the current directory
+cd-- change directory-- move to another directory
+directory will be seen as-- XXX/
+cd .. -- move back 1 directory
+clear-- type clear-- to wipe the whole screen
+
+commands to move around:
+cd documents/theowaf/class7/aws/
+
+if you hit tab button-- it will do a auto complete of the path
+touch-- add a file to the folder
+rm the file 
